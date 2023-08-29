@@ -56,6 +56,10 @@ footer .social>a :hover{
     color: var(--secondary-color)
 }
 
+.boldM{
+    font-weight: bold;
+}
+
 code[class*="language-"], pre[class*="language-"] {
     white-space: pre-wrap;
     word-break: break-all;
